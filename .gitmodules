@@ -1,0 +1,3 @@
+[submodule "alongsai/themes/educenter"]
+	path = alongsai/themes/educenter
+	url = https://github.com/themefisher/educenter-hugo
